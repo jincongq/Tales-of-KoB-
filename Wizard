@@ -1,0 +1,26 @@
+// 
+//
+//
+
+class Wizard 
+{
+    int magic, maxMana, mana, maxHealth, health;
+    boolean arcane;
+    public Wizard () 
+    {
+        magic = 4;
+        maxMana = 20;
+        mana = maxMana;
+        maxHealth = 20;
+        health = maxHealth;
+    }
+    
+    public Wizard (int mag, int maxMP, int mp, int maxHP, int hp) 
+    {
+        magic = mag;
+        maxMana = maxMP;
+        mana = mp;
+        maxHealth = maxHP;
+        health = hp;  
+    }
+}
