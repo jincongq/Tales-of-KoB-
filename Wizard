@@ -1,5 +1,5 @@
-// 
-//
+// Player class Wizard
+// Incomplete, depending on how apothecary works, may extend superclass player?
 //
 
 class Wizard 
