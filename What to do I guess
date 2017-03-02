@@ -1,0 +1,23 @@
+/*
+  1. Battle
+    a. Monsters
+    b. Wand wave pattern
+    c. Store pattern in an array, compare to stored patterns? 
+		
+		Set up grid, using time.time, sort of like Sniffy experiment, so that only after x amount of time, can move
+		stats? stats. moverate = #constant/speed nextmove= time.time+moverate
+		
+    
+  2. 
+		a. Access world map, because man is navigation a pain in the-
+		b. Navigating
+	
+	3. Cutscenes
+
+*/
+
+
+
+
+
+
