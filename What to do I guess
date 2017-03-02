@@ -5,7 +5,7 @@
     c. Store pattern in an array, compare to stored patterns? 
 		
 		Set up grid, using time.time, sort of like Sniffy experiment, so that only after x amount of time, can move
-		stats? stats. moverate = #constant/speed nextmove= time.time+moverate
+		stats? stats. moveRate = #constant/speed nextmove= time.time+moverate #it's just a bit weird though, halving the moverate.
 		
     
   2. 
